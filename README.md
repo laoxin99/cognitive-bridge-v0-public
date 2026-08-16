@@ -2,6 +2,10 @@
 
 > LLM 打开可能，元力智脑校准方向。
 
+## 视频入口
+
+两分钟英文介绍： [Why Is AI Becoming More Dangerous — and Why Intelligence May Begin Before Language?](https://youtu.be/4LL3pKtgA4Q)
+
 这是一个面向机制型智能的公开研究入口。当前公开包聚焦一个可复核的最小问题：
 
 ```text
@@ -72,4 +76,3 @@ python -m compileall cognitive_bridge_v0
 ## 公开研究位置
 
 这不是把智脑包装成已经完成的 AGI，而是先公开一个可以运行、测试和复核的机制原型。长期研究方向是：在既定目标、边界和反馈中，把方向判断、路径修正与受控执行转化为可检查的工程结构。
-
