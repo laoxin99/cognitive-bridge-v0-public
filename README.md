@@ -6,6 +6,17 @@
 
 两分钟英文介绍： [Why Is AI Becoming More Dangerous — and Why Intelligence May Begin Before Language?](https://youtu.be/4LL3pKtgA4Q)
 
+## 从这里开始
+
+如果第一次来到这里，建议按下面顺序查看：
+
+1. [先看视频：AI 为何更危险？](https://youtu.be/4LL3pKtgA4Q) — 用两分钟了解问题背景。
+2. [运行离线 demo](#运行) — 按命令复现一次路径改道。
+3. [查看最小证据](MINIMUM_EVIDENCE.md) — 对照输入、输出和 replay 结果。
+4. [查看公开边界](OPEN_SOURCE_BOUNDARY.md) — 了解本包公开与未公开的内容。
+5. [返回元力智脑主页](https://laoxin99.github.io/index-zh.html) — 查看背景、入口和后续研究方向。
+6. [提交问题或反馈](../../issues/new) — 请尽量附上复现命令、输出和环境。
+
 这是一个面向机制型智能的公开研究入口。当前公开包聚焦一个可复核的最小问题：
 
 ```text
