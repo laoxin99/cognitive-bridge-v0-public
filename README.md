@@ -35,6 +35,7 @@ B 先被选择
 4. [查看公开边界](OPEN_SOURCE_BOUNDARY.md) — 了解本包公开与未公开的内容。
 5. [返回元力智脑主页](https://laoxin99.github.io/index-zh.html) — 查看背景、入口和后续研究方向。
 6. [提交问题或反馈](../../issues/new) — 请尽量附上复现命令、输出和环境。
+7. [查看 ZEV-01 / V1](evolution/ZEV-01_V1/README.md) — 了解公开的第一阶段研究问题与边界。
 
 ## 视频入口
 
