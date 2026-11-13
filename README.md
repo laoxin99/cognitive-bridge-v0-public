@@ -38,6 +38,19 @@ B 先被选择
 7. [查看 ZEV-01 / V1](evolution/ZEV-01_V1/README.md) — 了解公开的第一阶段研究问题与边界。
 8. [查看 ZEV-02 / V2](evolution/ZEV-02_V2/README.md) — 了解第二阶段关于内部状态进入反应条件的研究问题与边界。
 
+## Published research stages
+
+Read in order: [V1](evolution/ZEV-01_V1/README.md) → [V2](evolution/ZEV-02_V2/README.md) → [V11](evolution/ZEV-11_V11/README.md) → [V12](evolution/ZEV-12_V12/README.md) → [V13](evolution/ZEV-13_V13/README.md).
+
+| Stage | Question and evidence boundary |
+|---|---|
+| V1–V2 | E1 / historical reconstruction; not independently validated experimental releases. |
+| [V11](evolution/ZEV-11_V11/README.md) | E2 / basic adaptation in a bounded Markov environment; no significant additional advantage from experience reuse in the report. |
+| [V12](evolution/ZEV-12_V12/README.md) | E2 / weak positive signal under non-Markov conditions; insufficient for strategy dominance. |
+| [V13](evolution/ZEV-13_V13/README.md) | E2 / reported advantage at about 20 steps; the 25-step window did not meet the criterion in the same bounded experiment. |
+
+V3–V10 were skipped in this publication sequence by the owner. Their absence does not establish completion or independent validation. Each linked stage states its own limits.
+
 ## 视频入口
 
 两分钟英文介绍： [Why Is AI Becoming More Dangerous — and Why Intelligence May Begin Before Language?](https://youtu.be/4LL3pKtgA4Q)
