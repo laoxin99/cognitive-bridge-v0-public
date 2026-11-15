@@ -40,6 +40,8 @@ B 先被选择
 
 ## Published research stages
 
+[Read the published evolution review and reading map](evolution/PUBLISHED_EVOLUTION_REVIEW.md).
+
 Read in order: [V1](evolution/ZEV-01_V1/README.md) → [V2](evolution/ZEV-02_V2/README.md) → [V11](evolution/ZEV-11_V11/README.md) → [V12](evolution/ZEV-12_V12/README.md) → [V13](evolution/ZEV-13_V13/README.md).
 
 | Stage | Question and evidence boundary |
