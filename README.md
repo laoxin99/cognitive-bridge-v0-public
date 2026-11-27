@@ -38,6 +38,16 @@ B 先被选择
 7. [查看 ZEV-01 / V1](evolution/ZEV-01_V1/README.md) — 了解公开的第一阶段研究问题与边界。
 8. [查看 ZEV-02 / V2](evolution/ZEV-02_V2/README.md) — 了解第二阶段关于内部状态进入反应条件的研究问题与边界。
 
+<a id="latest-research-news"></a>
+
+## Latest Research Progress
+
+**ZhiNao L5 · Online learning experiment**
+
+This is the most valuable positive experimental result in ZhiNao’s development so far. We have obtained evidence that autonomous learning can change actual behavior and improve survival performance. The next step is to confirm the stability of these gains, then move on to experiments on autonomous structural evolution.
+
+The result comes from a simulation experiment. The preregistered joint criterion for intelligence growth was not met.
+
 ## Published research stages
 
 [Read the published evolution review and reading map](evolution/PUBLISHED_EVOLUTION_REVIEW.md).
